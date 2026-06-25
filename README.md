@@ -17,32 +17,24 @@ Passionate Computer Science Engineering student with a strong interest in softwa
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-- Java
-- JavaScript
-- SQL
+### Languages & Technologies
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,spring,git,github,vscode,eclipse&theme=dark" />
+</p>
 
-### Backend
-- Java
-- JDBC
-- Spring
-- Spring Boot
+### Skills
 
-### Database
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Eclipse
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -59,7 +51,6 @@ Passionate Computer Science Engineering student with a strong interest in softwa
 ## 📂 Projects
 
 ### 🛒 AI-Powered E-Commerce Platform
-A smart e-commerce application featuring:
 - User Authentication
 - Product Management
 - Shopping Cart
@@ -67,28 +58,34 @@ A smart e-commerce application featuring:
 - AI-Based Product Recommendations
 
 ### 🌐 Full Stack Web Applications
-Developing responsive and scalable web applications using Java, Spring Boot, MySQL, HTML, CSS, and JavaScript.
+Building responsive and scalable web applications using Java, Spring Boot, MySQL, HTML, CSS, and JavaScript.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suman-David&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Suman-David&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-David&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-David&layout=compact&theme=tokyonight)
 
----
-
-## 🤝 Connect With Me
-
-📧 Email: sumandavid2002@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/suman-david-95664b27a
-
-🐙 GitHub: https://github.com/Suman-David
+![](https://github-readme-streak-stats.herokuapp.com/?user=Suman-David&theme=tokyonight)
 
 ---
 
-### 💡 Motto
+## 🌐 Connect With Me
 
-"Keep learning, keep building, and keep improving."
+<a href="https://www.linkedin.com/in/suman-david-95664b27a">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:sumandavid2025@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+---
+
+### 💡 Quote
+
+> "Keep learning, keep building, and keep improving."
+
+⭐ Thanks for visiting my profile!"
